@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string-array name="Events">
+        <item>Choreo</item>
+        <item>Panache</item>
+        <item>Popular Night</item>
+        <item>Workshops</item>
+        <item>Competitions</item>
+    </string-array>
+</resources>
